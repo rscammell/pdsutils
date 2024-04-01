@@ -1,0 +1,2 @@
+N.B. I'm aware that including compiled objects, including Javadocs, isn't considered a best practice within a repository. However, since this is a historic (20+ year-old) project, I'm making a conscious exception and including the 'as built' output from javadoc at the time. Those interested in doing so can rebuild these files using [build.sh](https://github.com/rscammell/pdsutils/blob/main/build.sh)
+
